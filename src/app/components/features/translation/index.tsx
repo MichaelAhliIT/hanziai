@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import axios from "axios";
+import { Container } from "../../ContainerComponent";
 
 interface AnswerData {
   translations: { translation: string; pinyin: string }[];
@@ -45,7 +46,7 @@ export const TranslationPages = () => {
   };
 
   return (
-    <div className="w-full md:w-2/5 flex flex-col p-5">
+    <>
       <h1 className="font-bold text-2xl pb-5">Context Translation</h1>
 
       <legend className="fieldset-legend">Input English Text</legend>
@@ -120,6 +121,6 @@ export const TranslationPages = () => {
         🔹 Optional Context Input: Users can provide context for better accuracy
         but can also leave it blank for general translations.
       </p>
-    </div>
+    </>
   );
 };

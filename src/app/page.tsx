@@ -1,5 +1,11 @@
 import Image from "next/image";
+import { TranslationPages } from "./components/features/translation";
+import { Container } from "./components/ContainerComponent";
 
 export default function Home() {
-  return <h1>Landing Page</h1>;
+  return (
+    <Container>
+      <TranslationPages />
+    </Container>
+  );
 }

@@ -1,0 +1,1088 @@
+[
+  {
+    "category": "restaurant",
+    "phrase": "Spoon",
+    "translation": "湯匙",
+    "pinyin": "tāngchí"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Chopsticks",
+    "translation": "筷子",
+    "pinyin": "kuàizi"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Fork",
+    "translation": "叉子",
+    "pinyin": "chāzi"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Take away",
+    "translation": "外帶",
+    "pinyin": "wàidài"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Dine in",
+    "translation": "內用",
+    "pinyin": "nèiyòng"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Menu",
+    "translation": "菜單",
+    "pinyin": "càidān"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "restaurant",
+    "translation": "餐廳",
+    "pinyin": "cāntīng"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Delicious",
+    "translation": "好吃",
+    "pinyin": "hǎochī"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Spicy",
+    "translation": "辣",
+    "pinyin": "là"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Salty",
+    "translation": "鹹",
+    "pinyin": "xián"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Sweet",
+    "translation": "甜",
+    "pinyin": "tián"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Sour",
+    "translation": "酸",
+    "pinyin": "suān"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Soup",
+    "translation": "湯",
+    "pinyin": "tāng"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Fried rice",
+    "translation": "炒飯",
+    "pinyin": "chǎofàn"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Beef",
+    "translation": "牛肉",
+    "pinyin": "niúròu"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Chicken",
+    "translation": "雞肉",
+    "pinyin": "jīròu"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Pork",
+    "translation": "豬肉",
+    "pinyin": "zhūròu"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Fish",
+    "translation": "魚",
+    "pinyin": "yú"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Rice",
+    "translation": "米飯",
+    "pinyin": "mǐfàn"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Noodles",
+    "translation": "麵",
+    "pinyin": "miàn"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Tea",
+    "translation": "茶",
+    "pinyin": "chá"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Juice",
+    "translation": "果汁",
+    "pinyin": "guǒzhī"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Ice cream",
+    "translation": "冰淇淋",
+    "pinyin": "bīngqílín"
+  },
+  {
+    "category": "restaurant",
+    "phrase": "Tofu",
+    "translation": "豆腐",
+    "pinyin": "dòufu"
+  },
+  {
+    "category": "travel",
+    "phrase": "Airport",
+    "translation": "機場",
+    "pinyin": "jīchǎng"
+  },
+  {
+    "category": "travel",
+    "phrase": "Passport",
+    "translation": "護照",
+    "pinyin": "hùzhào"
+  },
+  {
+    "category": "travel",
+    "phrase": "Flight ticket",
+    "translation": "機票",
+    "pinyin": "jīpiào"
+  },
+  {
+    "category": "travel",
+    "phrase": "Luggage",
+    "translation": "行李",
+    "pinyin": "xínglǐ"
+  },
+  {
+    "category": "travel",
+    "phrase": "Boarding pass",
+    "translation": "登機證",
+    "pinyin": "dēngjī zhèng"
+  },
+  {
+    "category": "travel",
+    "phrase": "Customs",
+    "translation": "海關",
+    "pinyin": "hǎiguān"
+  },
+  {
+    "category": "travel",
+    "phrase": "Visa",
+    "translation": "簽證",
+    "pinyin": "qiānzhèng"
+  },
+  {
+    "category": "travel",
+    "phrase": "Hotel",
+    "translation": "飯店",
+    "pinyin": "fàndiàn"
+  },
+  {
+    "category": "travel",
+    "phrase": "Reservation",
+    "translation": "預約",
+    "pinyin": "yùyuē"
+  },
+  {
+    "category": "travel",
+    "phrase": "Taxi",
+    "translation": "計程車",
+    "pinyin": "jìchéngchē"
+  },
+  {
+    "category": "travel",
+    "phrase": "Subway",
+    "translation": "地鐵",
+    "pinyin": "dìtiě"
+  },
+  {
+    "category": "travel",
+    "phrase": "Train station",
+    "translation": "火車站",
+    "pinyin": "huǒchē zhàn"
+  },
+  {
+    "category": "travel",
+    "phrase": "Bus stop",
+    "translation": "公車站",
+    "pinyin": "gōngchē zhàn"
+  },
+  {
+    "category": "travel",
+    "phrase": "Map",
+    "translation": "地圖",
+    "pinyin": "dìtú"
+  },
+  {
+    "category": "travel",
+    "phrase": "Tourist",
+    "translation": "遊客",
+    "pinyin": "yóukè"
+  },
+  {
+    "category": "travel",
+    "phrase": "Tour guide",
+    "translation": "導遊",
+    "pinyin": "dǎoyóu"
+  },
+  {
+    "category": "travel",
+    "phrase": "Souvenir",
+    "translation": "紀念品",
+    "pinyin": "jìniànpǐn"
+  },
+  {
+    "category": "travel",
+    "phrase": "Exchange rate",
+    "translation": "匯率",
+    "pinyin": "huìlǜ"
+  },
+  {
+    "category": "travel",
+    "phrase": "Lost and found",
+    "translation": "失物招領",
+    "pinyin": "shīwù zhāolǐng"
+  },
+  {
+    "category": "travel",
+    "phrase": "Emergency contact",
+    "translation": "緊急聯絡人",
+    "pinyin": "jǐnjí liánluò rén"
+  },
+  {
+    "category": "direction",
+    "phrase": "Left",
+    "translation": "左邊",
+    "pinyin": "zuǒbiān"
+  },
+  {
+    "category": "direction",
+    "phrase": "Right",
+    "translation": "右邊",
+    "pinyin": "yòubiān"
+  },
+  {
+    "category": "direction",
+    "phrase": "Straight ahead",
+    "translation": "直走",
+    "pinyin": "zhí zǒu"
+  },
+  {
+    "category": "direction",
+    "phrase": "Turn left",
+    "translation": "左轉",
+    "pinyin": "zuǒ zhuǎn"
+  },
+  {
+    "category": "direction",
+    "phrase": "Turn right",
+    "translation": "右轉",
+    "pinyin": "yòu zhuǎn"
+  },
+  {
+    "category": "direction",
+    "phrase": "Go back",
+    "translation": "往回走",
+    "pinyin": "wǎng huí zǒu"
+  },
+  {
+    "category": "direction",
+    "phrase": "Intersection",
+    "translation": "十字路口",
+    "pinyin": "shízì lùkǒu"
+  },
+  {
+    "category": "direction",
+    "phrase": "Traffic light",
+    "translation": "紅綠燈",
+    "pinyin": "hónglǜdēng"
+  },
+  {
+    "category": "direction",
+    "phrase": "Crosswalk",
+    "translation": "斑馬線",
+    "pinyin": "bānmǎxiàn"
+  },
+  {
+    "category": "direction",
+    "phrase": "Near",
+    "translation": "附近",
+    "pinyin": "fùjìn"
+  },
+  {
+    "category": "direction",
+    "phrase": "Far",
+    "translation": "遠",
+    "pinyin": "yuǎn"
+  },
+  {
+    "category": "direction",
+    "phrase": "Opposite side",
+    "translation": "對面",
+    "pinyin": "duìmiàn"
+  },
+  {
+    "category": "direction",
+    "phrase": "Next to",
+    "translation": "旁邊",
+    "pinyin": "pángbiān"
+  },
+  {
+    "category": "direction",
+    "phrase": "Behind",
+    "translation": "後面",
+    "pinyin": "hòumiàn"
+  },
+  {
+    "category": "direction",
+    "phrase": "In front of",
+    "translation": "前面",
+    "pinyin": "qiánmiàn"
+  },
+  {
+    "category": "direction",
+    "phrase": "Upstairs",
+    "translation": "樓上",
+    "pinyin": "lóu shàng"
+  },
+  {
+    "category": "direction",
+    "phrase": "Downstairs",
+    "translation": "樓下",
+    "pinyin": "lóu xià"
+  },
+  {
+    "category": "direction",
+    "phrase": "Inside",
+    "translation": "裡面",
+    "pinyin": "lǐmiàn"
+  },
+  {
+    "category": "direction",
+    "phrase": "Outside",
+    "translation": "外面",
+    "pinyin": "wàimiàn"
+  },
+  {
+    "category": "direction",
+    "phrase": "Middle",
+    "translation": "中間",
+    "pinyin": "zhōngjiān"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Apple",
+    "translation": "蘋果",
+    "pinyin": "píngguǒ"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Banana",
+    "translation": "香蕉",
+    "pinyin": "xiāngjiāo"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Orange",
+    "translation": "橙子",
+    "pinyin": "chéngzi"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Grapes",
+    "translation": "葡萄",
+    "pinyin": "pútáo"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Watermelon",
+    "translation": "西瓜",
+    "pinyin": "xīguā"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Strawberry",
+    "translation": "草莓",
+    "pinyin": "cǎoméi"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Mango",
+    "translation": "芒果",
+    "pinyin": "mángguǒ"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Pineapple",
+    "translation": "鳳梨",
+    "pinyin": "fènglí"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Pear",
+    "translation": "梨子",
+    "pinyin": "lízi"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Cherry",
+    "translation": "櫻桃",
+    "pinyin": "yīngtáo"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Peach",
+    "translation": "桃子",
+    "pinyin": "táozi"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Plum",
+    "translation": "李子",
+    "pinyin": "lǐzi"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Kiwi",
+    "translation": "奇異果",
+    "pinyin": "qíyìguǒ"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Coconut",
+    "translation": "椰子",
+    "pinyin": "yēzi"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Blueberry",
+    "translation": "藍莓",
+    "pinyin": "lánméi"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Pomegranate",
+    "translation": "石榴",
+    "pinyin": "shíliú"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Lemon",
+    "translation": "檸檬",
+    "pinyin": "níngméng"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Guava",
+    "translation": "番石榴",
+    "pinyin": "fānshíliú"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Dragon fruit",
+    "translation": "火龍果",
+    "pinyin": "huǒlóngguǒ"
+  },
+  {
+    "category": "fruits",
+    "phrase": "Lychee",
+    "translation": "荔枝",
+    "pinyin": "lìzhī"
+  },
+  {
+    "category": "school",
+    "phrase": "school",
+    "translation": "學校",
+    "pinyin": "xuéxiào"
+  },
+  {
+    "category": "school",
+    "phrase": "Teacher",
+    "translation": "老師",
+    "pinyin": "lǎoshī"
+  },
+  {
+    "category": "school",
+    "phrase": "Student",
+    "translation": "學生",
+    "pinyin": "xuéshēng"
+  },
+  {
+    "category": "school",
+    "phrase": "Classroom",
+    "translation": "教室",
+    "pinyin": "jiàoshì"
+  },
+  {
+    "category": "school",
+    "phrase": "Homework",
+    "translation": "作業",
+    "pinyin": "zuòyè"
+  },
+  {
+    "category": "school",
+    "phrase": "Exam",
+    "translation": "考試",
+    "pinyin": "kǎoshì"
+  },
+  {
+    "category": "school",
+    "phrase": "Blackboard",
+    "translation": "黑板",
+    "pinyin": "hēibǎn"
+  },
+  {
+    "category": "school",
+    "phrase": "Notebook",
+    "translation": "本子",
+    "pinyin": "běnzǐ"
+  },
+  {
+    "category": "school",
+    "phrase": "Library",
+    "translation": "圖書館",
+    "pinyin": "túshūguǎn"
+  },
+  {
+    "category": "school",
+    "phrase": "Pencil",
+    "translation": "鉛筆",
+    "pinyin": "qiānbǐ"
+  },
+  {
+    "category": "school",
+    "phrase": "Eraser",
+    "translation": "橡皮擦",
+    "pinyin": "xiàngpícā"
+  },
+  {
+    "category": "school",
+    "phrase": "Book",
+    "translation": "書",
+    "pinyin": "shū"
+  },
+  {
+    "category": "school",
+    "phrase": "Desk",
+    "translation": "書桌",
+    "pinyin": "shūzhuō"
+  },
+  {
+    "category": "school",
+    "phrase": "Chair",
+    "translation": "椅子",
+    "pinyin": "yǐzi"
+  },
+  {
+    "category": "school",
+    "phrase": "Ruler",
+    "translation": "尺",
+    "pinyin": "chǐ"
+  },
+  {
+    "category": "school",
+    "phrase": "Glue",
+    "translation": "膠水",
+    "pinyin": "jiāoshuǐ"
+  },
+  {
+    "category": "school",
+    "phrase": "Backpack",
+    "translation": "書包",
+    "pinyin": "shūbāo"
+  },
+  {
+    "category": "school",
+    "phrase": "Principal",
+    "translation": "校長",
+    "pinyin": "xiàozhǎng"
+  },
+  {
+    "category": "school",
+    "phrase": "Uniform",
+    "translation": "校服",
+    "pinyin": "xiàofú"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Head",
+    "translation": "頭",
+    "pinyin": "tóu"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Face",
+    "translation": "臉",
+    "pinyin": "liǎn"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Eye",
+    "translation": "眼睛",
+    "pinyin": "yǎnjīng"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Nose",
+    "translation": "鼻子",
+    "pinyin": "bízi"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Mouth",
+    "translation": "嘴巴",
+    "pinyin": "zuǐbā"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Ear",
+    "translation": "耳朵",
+    "pinyin": "ěrduǒ"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Hair",
+    "translation": "頭髮",
+    "pinyin": "tóufǎ"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Neck",
+    "translation": "脖子",
+    "pinyin": "bózi"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Shoulder",
+    "translation": "肩膀",
+    "pinyin": "jiānbǎng"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Arm",
+    "translation": "手臂",
+    "pinyin": "shǒubì"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Hand",
+    "translation": "手",
+    "pinyin": "shǒu"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Finger",
+    "translation": "手指",
+    "pinyin": "shǒuzhǐ"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Chest",
+    "translation": "胸部",
+    "pinyin": "xiōngbù"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Back",
+    "translation": "背部",
+    "pinyin": "bèibù"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Stomach",
+    "translation": "肚子",
+    "pinyin": "dùzi"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Leg",
+    "translation": "腿",
+    "pinyin": "tuǐ"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Knee",
+    "translation": "膝蓋",
+    "pinyin": "xīgài"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Foot",
+    "translation": "腳",
+    "pinyin": "jiǎo"
+  },
+  {
+    "category": "bodyparts",
+    "phrase": "Toe",
+    "translation": "腳趾",
+    "pinyin": "jiǎozhǐ"
+  },
+  {
+    "category": "colors",
+    "phrase": "Red",
+    "translation": "紅色",
+    "pinyin": "hóngsè"
+  },
+  {
+    "category": "colors",
+    "phrase": "Blue",
+    "translation": "藍色",
+    "pinyin": "lánsè"
+  },
+  {
+    "category": "colors",
+    "phrase": "Yellow",
+    "translation": "黃色",
+    "pinyin": "huángsè"
+  },
+  {
+    "category": "colors",
+    "phrase": "Green",
+    "translation": "綠色",
+    "pinyin": "lǜsè"
+  },
+  {
+    "category": "colors",
+    "phrase": "Black",
+    "translation": "黑色",
+    "pinyin": "hēisè"
+  },
+  {
+    "category": "colors",
+    "phrase": "White",
+    "translation": "白色",
+    "pinyin": "báisè"
+  },
+  {
+    "category": "colors",
+    "phrase": "Pink",
+    "translation": "粉紅色",
+    "pinyin": "fěnhóngsè"
+  },
+  {
+    "category": "colors",
+    "phrase": "Purple",
+    "translation": "紫色",
+    "pinyin": "zǐsè"
+  },
+  {
+    "category": "colors",
+    "phrase": "Orange",
+    "translation": "橘色",
+    "pinyin": "júsè"
+  },
+  {
+    "category": "colors",
+    "phrase": "Brown",
+    "translation": "棕色",
+    "pinyin": "zōngsè"
+  },
+  {
+    "category": "colors",
+    "phrase": "Gray",
+    "translation": "灰色",
+    "pinyin": "huīsè"
+  },
+  {
+    "category": "colors",
+    "phrase": "Light blue",
+    "translation": "淺藍色",
+    "pinyin": "qiǎn lán sè"
+  },
+  {
+    "category": "colors",
+    "phrase": "Dark blue",
+    "translation": "深藍色",
+    "pinyin": "shēn lán sè"
+  },
+  {
+    "category": "colors",
+    "phrase": "Cyan",
+    "translation": "青色",
+    "pinyin": "qīngsè"
+  },
+  {
+    "category": "colors",
+    "phrase": "Gold",
+    "translation": "金色",
+    "pinyin": "jīnsè"
+  },
+  {
+    "category": "colors",
+    "phrase": "Silver",
+    "translation": "銀色",
+    "pinyin": "yínsè"
+  },
+  {
+    "category": "colors",
+    "phrase": "Beige",
+    "translation": "米色",
+    "pinyin": "mǐsè"
+  },
+  {
+    "category": "colors",
+    "phrase": "Turquoise",
+    "translation": "青綠色",
+    "pinyin": "qīnglǜsè"
+  },
+  {
+    "category": "colors",
+    "phrase": "Magenta",
+    "translation": "洋紅色",
+    "pinyin": "yánghóngsè"
+  },
+  {
+    "category": "time",
+    "phrase": "Morning",
+    "translation": "早上",
+    "pinyin": "zǎoshàng"
+  },
+  {
+    "category": "time",
+    "phrase": "Noon",
+    "translation": "中午",
+    "pinyin": "zhōngwǔ"
+  },
+  {
+    "category": "time",
+    "phrase": "Afternoon",
+    "translation": "下午",
+    "pinyin": "xiàwǔ"
+  },
+  {
+    "category": "time",
+    "phrase": "Evening",
+    "translation": "晚上",
+    "pinyin": "wǎnshàng"
+  },
+  {
+    "category": "time",
+    "phrase": "Night",
+    "translation": "夜晚",
+    "pinyin": "yèwǎn"
+  },
+  {
+    "category": "time",
+    "phrase": "Dawn",
+    "translation": "黎明",
+    "pinyin": "límíng"
+  },
+  {
+    "category": "time",
+    "phrase": "Dusk",
+    "translation": "黃昏",
+    "pinyin": "huánghūn"
+  },
+  {
+    "category": "time",
+    "phrase": "Yesterday",
+    "translation": "昨天",
+    "pinyin": "zuótiān"
+  },
+  {
+    "category": "time",
+    "phrase": "Today",
+    "translation": "今天",
+    "pinyin": "jīntiān"
+  },
+  {
+    "category": "time",
+    "phrase": "Tomorrow",
+    "translation": "明天",
+    "pinyin": "míngtiān"
+  },
+  {
+    "category": "time",
+    "phrase": "Day after tomorrow",
+    "translation": "後天",
+    "pinyin": "hòutiān"
+  },
+  {
+    "category": "time",
+    "phrase": "Week",
+    "translation": "星期",
+    "pinyin": "xīngqī"
+  },
+  {
+    "category": "time",
+    "phrase": "Month",
+    "translation": "月份",
+    "pinyin": "yuèfèn"
+  },
+  {
+    "category": "time",
+    "phrase": "Year",
+    "translation": "年",
+    "pinyin": "nián"
+  },
+  {
+    "category": "time",
+    "phrase": "Hour",
+    "translation": "小時",
+    "pinyin": "xiǎoshí"
+  },
+  {
+    "category": "time",
+    "phrase": "Minute",
+    "translation": "分鐘",
+    "pinyin": "fēnzhōng"
+  },
+  {
+    "category": "time",
+    "phrase": "Second",
+    "translation": "秒",
+    "pinyin": "miǎo"
+  },
+  {
+    "category": "time",
+    "phrase": "Weekend",
+    "translation": "週末",
+    "pinyin": "zhōumò"
+  },
+  {
+    "category": "time",
+    "phrase": "Weekday",
+    "translation": "平日",
+    "pinyin": "píngrì"
+  },
+  {
+    "category": "time",
+    "phrase": "Midnight",
+    "translation": "午夜",
+    "pinyin": "wǔyè"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Doctor",
+    "translation": "醫生",
+    "pinyin": "yīshēng"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Nurse",
+    "translation": "護士",
+    "pinyin": "hùshì"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Teacher",
+    "translation": "老師",
+    "pinyin": "lǎoshī"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Engineer",
+    "translation": "工程師",
+    "pinyin": "gōngchéngshī"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Police officer",
+    "translation": "警察",
+    "pinyin": "jǐngchá"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Firefighter",
+    "translation": "消防員",
+    "pinyin": "xiāofángyuán"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Chef",
+    "translation": "廚師",
+    "pinyin": "chúshī"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Waiter",
+    "translation": "服務生",
+    "pinyin": "fúwùshēng"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Driver",
+    "translation": "司機",
+    "pinyin": "sījī"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Farmer",
+    "translation": "農夫",
+    "pinyin": "nóngfū"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Artist",
+    "translation": "藝術家",
+    "pinyin": "yìshùjiā"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Musician",
+    "translation": "音樂家",
+    "pinyin": "yīnyuèjiā"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Actor",
+    "translation": "演員",
+    "pinyin": "yǎnyuán"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Lawyer",
+    "translation": "律師",
+    "pinyin": "lǜshī"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Judge",
+    "translation": "法官",
+    "pinyin": "fǎguān"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Scientist",
+    "translation": "科學家",
+    "pinyin": "kēxuéjiā"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Businessperson",
+    "translation": "商人",
+    "pinyin": "shāngrén"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Pilot",
+    "translation": "飛行員",
+    "pinyin": "fēixíngyuán"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Soldier",
+    "translation": "軍人",
+    "pinyin": "jūnrén"
+  },
+  {
+    "category": "occupation",
+    "phrase": "Writer",
+    "translation": "作家",
+    "pinyin": "zuòjiā"
+  }
+]
