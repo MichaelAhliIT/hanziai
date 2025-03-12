@@ -15,7 +15,7 @@ export const CategoryComponent: React.FC<CategoryProps> = ({ title }) => {
 
   return (
     <div
-      className="card bg-base-300 w-96 md:w-full shadow-sm hover:bg-base-200 cursor-pointer active:scale-95"
+      className="card bg-base-300 w-full shadow-sm hover:bg-base-200 cursor-pointer active:scale-95"
       onClick={handleClick}
     >
       <div className="card-body">

@@ -5,7 +5,7 @@ export const FlashcardPages = () => {
   return (
     <>
       <h1 className="font-bold text-2xl pb-5">Category</h1>
-      <div className="flex flex-col md:grid md:grid-cols-2 gap-5">
+      <div className="flex flex-col md:grid lg:grid-cols-2 gap-5">
         <CategoryComponent title="Restaurant" />
         <CategoryComponent title="Travel" />
         <CategoryComponent title="Direction" />
