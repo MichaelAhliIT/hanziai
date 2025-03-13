@@ -18,8 +18,13 @@ export const CategoryComponent: React.FC<CategoryProps> = ({ title }) => {
       className="card bg-base-300 w-full shadow-sm hover:bg-base-200 cursor-pointer active:scale-95"
       onClick={handleClick}
     >
-      <div className="card-body">
-        <h2 className="card-title">{title}</h2>
+      <div className="card-body flex-row">
+        <h2 className="card-title flex-1">{title}</h2>
+        <img
+          className="size-10 flex-none"
+          src={`${title.toLowerCase().replace(/\s+/g, "")}.png`}
+          alt=""
+        />
       </div>
     </div>
   );

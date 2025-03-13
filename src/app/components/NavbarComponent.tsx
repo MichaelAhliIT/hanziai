@@ -41,7 +41,7 @@ export const Navbar = () => {
         <a className="btn btn-ghost text-xl">HanziAI</a>
       </div>
       <div className="navbar-center hidden lg:flex">
-        <ul className="menu menu-horizontal px-1">
+        <ul className="menu menu-horizontal px-1 text-base">
           <li>
             <a href="/translation">Translation</a>
           </li>
