@@ -1,6 +1,6 @@
 export const Navbar = () => {
   return (
-    <div className="navbar bg-base-100 shadow-sm">
+    <div className="navbar bg-base-100 shadow-sm fixed z-20">
       <div className="navbar-start">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -31,7 +31,10 @@ export const Navbar = () => {
               <a href="/flashcard">Flashcard</a>
             </li>
             <li>
-              <a>Conversation</a>
+              <a href="/conversation">Conversation</a>
+            </li>
+            <li>
+              <a href="/about">About</a>
             </li>
           </ul>
         </div>
@@ -46,7 +49,10 @@ export const Navbar = () => {
             <a href="/flashcard">Flashcard</a>
           </li>
           <li>
-            <a>Conversation</a>
+            <a href="conversation">Conversation</a>
+          </li>
+          <li>
+            <a href="/about">About</a>
           </li>
         </ul>
       </div>
