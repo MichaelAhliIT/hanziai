@@ -30,9 +30,9 @@ export const Navbar = () => {
             <li>
               <a href="/flashcard">Flashcard</a>
             </li>
-            <li>
+            {/* <li>
               <a href="/conversation">Conversation</a>
-            </li>
+            </li> */}
             <li>
               <a href="/about">About</a>
             </li>
@@ -48,9 +48,9 @@ export const Navbar = () => {
           <li>
             <a href="/flashcard">Flashcard</a>
           </li>
-          <li>
+          {/* <li>
             <a href="conversation">Conversation</a>
-          </li>
+          </li> */}
           <li>
             <a href="/about">About</a>
           </li>
