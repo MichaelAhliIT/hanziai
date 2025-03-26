@@ -29,6 +29,7 @@ const FlashcardCategory = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [showPinyin, setShowPinyin] = useState(true);
   const [showMeaning, setShowMeaning] = useState(true);
+  const [isFinished, setIsFinished] = useState(false);
 
   // Fetch and shuffle flashcards
   useEffect(() => {
@@ -47,20 +48,62 @@ const FlashcardCategory = () => {
     };
 
     fetchFlashcards();
-  }, [category]);
+  }, [category, isFinished]);
 
   // Handle next flashcard
-  const handleNext = () => {
-    setCurrentIndex((prevIndex) => (prevIndex + 1) % flashcards.length);
+  const handleKnow = () => {
+    if (currentIndex === flashcards.length - 1) {
+      setIsFinished(true);
+    } else {
+      setCurrentIndex((prevIndex) => prevIndex + 1);
+    }
+  };
+
+  const handlePractice = () => {
+    if (currentIndex === flashcards.length - 1) {
+      // Put the last flashcard back at the end and restart the cycle
+      const cardToRepeat = flashcards[currentIndex];
+      const newDeck = [...flashcards.slice(0, currentIndex), cardToRepeat];
+      setFlashcards(newDeck);
+    } else {
+      // Move the current card to the end of the array
+      const cardToRepeat = flashcards[currentIndex];
+      const newDeck = [
+        ...flashcards.slice(0, currentIndex),
+        ...flashcards.slice(currentIndex + 1),
+        cardToRepeat,
+      ];
+      setFlashcards(newDeck);
+      setCurrentIndex((prevIndex) => prevIndex); // Stay on the same index, since we removed the current
+    }
   };
 
   return (
     <Container>
-      {flashcards.length > 0 ? (
+      {isFinished ? (
+        <div className="text-center py-20">
+          <h2 className="text-4xl font-bold mb-4">
+            🎉 You’ve finished all flashcards!
+          </h2>
+          <p className="text-lg text-gray-600">
+            Great job! You can restart the session if you'd like to review them
+            again.
+          </p>
+          <button
+            className="btn btn-accent mt-6"
+            onClick={() => {
+              setCurrentIndex(0);
+              setIsFinished(false);
+            }}
+          >
+            Restart
+          </button>
+        </div>
+      ) : flashcards.length > 0 ? (
         <div className="w-full flex justify-center">
           <div className="card bg-base-200 w-full md:w-3/5 h-72 shadow-sm items-center">
             <div className="card-body">
-              <h2 className="card-title text-6xl">
+              <h2 className="card-title text-6xl text-center">
                 {flashcards[currentIndex].translation}
               </h2>
 
@@ -76,10 +119,10 @@ const FlashcardCategory = () => {
               )}
             </div>
             <div className="card-actions p-5">
-              <button className="btn btn-accent" onClick={handleNext}>
+              <button className="btn btn-accent" onClick={handlePractice}>
                 Need Practice
               </button>
-              <button className="btn btn-accent" onClick={handleNext}>
+              <button className="btn btn-accent" onClick={handleKnow}>
                 Know This
               </button>
             </div>
